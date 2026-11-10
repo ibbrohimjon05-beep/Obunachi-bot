@@ -1,6 +1,0 @@
-fastapi
-uvicorn[standard]
-aiogram>=3.4
-pillow
-anthropic
-python-multipart
